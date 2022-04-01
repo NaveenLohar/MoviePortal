@@ -1,0 +1,43 @@
+{
+  "movies" : [{ "title": "KGF2", "director": "prashant", "actor": "yash", "langauge": "Kannada", "id": 1 },
+        { "title": "RRR", "director": "SSR", "actor": "NTR,Ramcharan",  "langauge": "Telugu", "id": 2 },
+         { "title": "GGVV",  "director": "RBS", "actor": "RBS",  "langauge": "Kannada", "id": 3 },
+        { "title": "Bangarada Manushya",  "director": "PK", "actor": "Rajkumar",  "langauge": "Kannada", "id": 4 },
+        { "title": "RadheShyam",  "director": "RadhaKrishna", "actor": "Prabhas",  "langauge": "Telugu", "id": 5 }],
+
+       
+    "info" :      [{"appTitle": "Movie Center", "about": "The application name is app movie center" },
+            { "appTitle": "Movie details",  "about": "App contains the list of movies and details about the movies" }
+        ],
+        "images" : [
+          {
+            "image" : "./images/img9.jpg"
+          },
+          {
+           "image" : "./images/img1.jpg"
+          },
+          {
+            "image" : "./images/img2.jpg"
+          },
+          {
+            "image" : "./images/img3.jpg"
+          },
+          {
+            "image" : "./images/img4.jpg"
+          },
+          {
+            "image" : "./images/img5.jpg"
+          },
+          {
+            "image" : "./images/img6.jpg"
+          },
+          {
+            "image" : "./images/img7.jpg"
+          },
+          {
+            "image" : "./images/img8.jpg"
+          }
+        ]
+
+
+}
